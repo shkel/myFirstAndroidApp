@@ -1,0 +1,20 @@
+<resources>
+    <string name="appName">My Gallery</string>
+    <string name="imageDesc">image</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="galleryInfo">Disk</string>
+    <string name="filesListError">Can\'t load the files list</string>
+    <string name="filesListFail">Something happened while loading the files list</string>
+    <string name="imageError">Can\'t load the image</string>
+    <string name="imageFail">Something happened while loading the image</string>
+    <string name="imageNull">Image is null</string>
+    <string name="imageFormat">Wrong image format</string>
+    <string name="fileNull">File is null</string>
+    <string name="back">back</string>
+    <string name="of">&#160;of&#160;</string>
+    <string name="images">&#160;photo&#160;</string>
+    <string name="error">Error</string>
+    <string name="ok">OK</string>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="appName">Галерея</string>
+    <string name="imageDesc">изображение</string>
+    <string name="title_home">Домой</string>
+    <string name="title_dashboard">Панель</string>
+    <string name="title_notifications">Уведомления</string>
+    <string name="galleryInfo">Диск</string>
+    <string name="filesListError">Ошибка загрузки списка файлов</string>
+    <string name="filesListFail">Что-то пошло не так при загрузке списка файлов</string>
+    <string name="imageError">Ошибка загрузки изображения</string>
+    <string name="imageFail">Что-то пошло не так при загрузке изображения</string>
+    <string name="imageNull">Изображение пусто</string>
+    <string name="imageFormat">Ошибка формата изображения</string>
+    <string name="fileNull">Пустой файл</string>
+    <string name="back">Назад</string>
+    <string name="of">&#160;из&#160;</string>
+    <string name="images">&#160;фото&#160;</string>
+    <string name="error">Ошибка</string>
+    <string name="ok">OK</string>
+</resources>
